@@ -1,0 +1,8 @@
+Metadata-Version: 2.1
+Name: freesearch
+Version: 0.1.0
+Summary: A UCI chess engine that evaluates positions based on move count difference
+Author: Devin
+Requires-Python: >=3.8
+Requires-Dist: python-chess>=1.10.0
+Requires-Dist: pytest>=7.0.0

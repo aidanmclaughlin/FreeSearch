@@ -1,0 +1,2 @@
+[console_scripts]
+freesearch = freesearch.__main__:main
